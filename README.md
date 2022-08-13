@@ -1,4 +1,4 @@
-# travel
+# GTravel
 
 This is a google travel alternative. It is the first project in over 30 google products which we are recreating(including hardware).
 The aim is to recreate all I use in the internet myself with little or no third parties(except obviously languages and cloud sometimes)/
