@@ -1,16 +1,8 @@
 # travel
 
-A new Flutter project.
+This is a google travel alternative. It is the first project in over 30 google products which we are recreating(including hardware).
+The aim is to recreate all I use in the internet myself with little or no third parties(except obviously languages and cloud sometimes)/
 
-## Getting Started
+This is made using flutter as the frontend and rust as the backend. Try to have fun.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+All projects in this repo will be released like actual company products with the end goal of dethroning FAANG to the #opensourcecommunity
